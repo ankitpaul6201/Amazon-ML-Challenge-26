@@ -1,8 +1,8 @@
 # ML Challenge 2026: Business Entity Resolution Solution Template
 
 **Team Name:** Cyber X  
-**Team Members:** Lead ML Engineer & QA Team  
-**Submission Date:** September 2026
+**Team Members:** Ankit, Satyam, Surya, Naushad
+**Submission Date:**27 September 2026
 
 ---
 
